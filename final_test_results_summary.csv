@@ -1,0 +1,9 @@
+"Test","Statistic","p_value"
+"Wilcoxon Test (Height)",5082.5,2.2e-16
+"Wilcoxon Test (Silique Number)",5814.5,2.2e-16
+"Wilcoxon Test (Silique-Height Ratio)",59078,0.07045
+"Wilcoxon Test (Tallest 10% Silique No)",0,4.068e-11
+"Spearman Correlation (HD)",-0.062,0.08357
+"Spearman Correlation (LD)",0.709,2.2e-16
+"Levene’s Test (Height)",32.226,1.815e-08
+"Kolmogorov-Smirnov Test (Height)",0.8239,2.2e-16
